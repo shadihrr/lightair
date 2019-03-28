@@ -1,5 +1,11 @@
 # lightair
 
+## About Project
+```
+This is a simple front end project for tracking your smoking.
+It is still in progress
+```
+
 ## Project setup
 ```
 npm install
